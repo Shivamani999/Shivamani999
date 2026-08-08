@@ -2,8 +2,8 @@
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
-  <img alt="YOUR NAME" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
+    srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
+  <img alt="Shivamani Konam" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
 </picture>
 
 # 💫 About Me:
