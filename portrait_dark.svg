@@ -50,6 +50,7 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="3.02s" fill="freeze"/><text x="470" y="546" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Grid.Instagram </tspan><tspan fill="rgba(148,163,184,0.35)">......................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> @automationwithclarity</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.34s" fill="freeze"/>
 <text x="470" y="577" font-size="14" fill="#94A3B8">&#9656; More about me &amp; projects below in README &#8595; <tspan fill="#22D3EE">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
 <rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" filter="url(#glow8)"/>
 <rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
 </svg>
