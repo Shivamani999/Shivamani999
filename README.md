@@ -6,6 +6,12 @@
   <img alt="Shivamani Konam" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
 </picture>
 
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=Shivamani999&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://shivamani999.vercel.app/api?username=Shivamani999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://shivamani999.vercel.app/api/top-langs/?username=Shivamani999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on SSE-QE @Valuelabs Ex-Infosys || Freelancer || Java | Python | Selenium | RestAssured | Appium (A/I)| Playwright | BrowserStack | TestNG | BDD Cucumber | Pytest | Postman | Agile | Maven | GIT | Jenkins | MySQL | Linux |<br>👯 I’m looking to collaborate on Brands<br>🤝 I’m looking for help with Software enthuistics<br>🌱 I’m currently learning GenAI, Rags, MCP's, Ai Agents<br>💬 Ask me about Career growth<br>⚡ Fun fact i'm parttime memer
