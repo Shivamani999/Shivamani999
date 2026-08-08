@@ -13,6 +13,17 @@
 <img width="49%" src="https://shivamani999.vercel.app/api/top-langs/?username=Shivamani999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/USER/USER/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/USER/USER/output/github-snake.svg" />
+<img alt="Snake eating my contributions"
+src="https://raw.githubusercontent.com/USER/USER/output/github-snake.svg" />
+</picture>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on SSE-QE @Valuelabs Ex-Infosys || Freelancer || Java | Python | Selenium | RestAssured | Appium (A/I)| Playwright | BrowserStack | TestNG | BDD Cucumber | Pytest | Postman | Agile | Maven | GIT | Jenkins | MySQL | Linux |<br>👯 I’m looking to collaborate on Brands<br>🤝 I’m looking for help with Software enthuistics<br>🌱 I’m currently learning GenAI, Rags, MCP's, Ai Agents<br>💬 Ask me about Career growth<br>⚡ Fun fact i'm parttime memer
 
