@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
+  <img alt="YOUR NAME" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portraitlight.svg">
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on SSE-QE @Valuelabs Ex-Infosys || Freelancer || Java | Python | Selenium | RestAssured | Appium (A/I)| Playwright | BrowserStack | TestNG | BDD Cucumber | Pytest | Postman | Agile | Maven | GIT | Jenkins | MySQL | Linux |<br>👯 I’m looking to collaborate on Brands<br>🤝 I’m looking for help with Software enthuistics<br>🌱 I’m currently learning GenAI, Rags, MCP's, Ai Agents<br>💬 Ask me about Career growth<br>⚡ Fun fact i'm parttime memer
 
