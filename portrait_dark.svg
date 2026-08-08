@@ -104,56 +104,39 @@
       <text x="12" y="15" font-size="14" fill="#0A101F" font-weight="bold">@Shivamani999</text>
     </g>
 
-    <!-- Info Rows -->
-    <g font-size="14" fill="#CBD5E1" transform="translate(490, 140)">
-      <!-- Row template with textLength locking -->
-      <text y="0" textLength="140" lengthAdjust="spacingAndGlyphs">Subject</text>
-      <text x="160" y="0" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Shivamani</text>
-
-      <text y="23" textLength="140" lengthAdjust="spacingAndGlyphs">Role</text>
-      <text x="160" y="23" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Senior Software Engineer - AI Automation QE</text>
-
-      <text y="46" textLength="140" lengthAdjust="spacingAndGlyphs">Origin</text>
-      <text x="160" y="46" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Hyderabad, India</text>
-
-      <text y="69" textLength="140" lengthAdjust="spacingAndGlyphs">Education</text>
-      <text x="160" y="69" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">BTECH</text>
-
-      <text y="92" textLength="140" lengthAdjust="spacingAndGlyphs">Status</text>
-      <text x="160" y="92" fill="#10B981" textLength="420" lengthAdjust="spacingAndGlyphs">Working | Content Creator | Freelancer</text>
-
-      <text y="115" textLength="140" lengthAdjust="spacingAndGlyphs">ToolChain</text>
-      <text x="160" y="115" fill="#A78BFA" textLength="420" lengthAdjust="spacingAndGlyphs">VS Code, Git, Android Studio, XCode, Claude Code</text>
-
-      <text y="161" textLength="140" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
-      <text x="160" y="161" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Java | Python | Javascript</text>
-
-      <text y="184" textLength="140" lengthAdjust="spacingAndGlyphs">Core.Frontend</text>
-      <text x="160" y="184" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">HTML</text>
-
-      <text y="207" textLength="140" lengthAdjust="spacingAndGlyphs">Core.Backend</text>
-      <text x="160" y="207" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Next.js | Three.js</text>
-
-      <text y="230" textLength="140" lengthAdjust="spacingAndGlyphs">Core.Database</text>
-      <text x="160" y="230" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">MongoDB | Postgres</text>
-
-      <text y="253" textLength="140" lengthAdjust="spacingAndGlyphs">Core.Infra</text>
-      <text x="160" y="253" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">Jenkins</text>
-
-      <text y="299" textLength="140" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
-      <text x="160" y="299" fill="#64748B" textLength="420" lengthAdjust="spacingAndGlyphs">shivasuriyakonam@gmail.com</text>
-
-      <text y="322" textLength="140" lengthAdjust="spacingAndGlyphs">Grid.Portfolio</text>
-      <text x="160" y="322" fill="#64748B" textLength="420" lengthAdjust="spacingAndGlyphs">—</text>
-
-      <text y="345" textLength="140" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
-      <text x="160" y="345" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">linkedin.com/in/smk99</text>
-
-      <text y="368" textLength="140" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
-      <text x="160" y="368" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">github.com/Shivamani999</text>
-
-      <text y="391" textLength="140" lengthAdjust="spacingAndGlyphs">Grid.Instagram</text>
-      <text x="160" y="391" fill="#22D3EE" textLength="420" lengthAdjust="spacingAndGlyphs">@automationwithclarity</text>
-    </g>
-  </g>
+<path d="M 50 84 L 36 84 L 36 98" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0.8"/>
+<path d="M 422 84 L 436 84 L 436 98" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0.8"/>
+<path d="M 50 576 L 36 576 L 36 562" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0.8"/>
+<path d="M 422 576 L 436 576 L 436 562" fill="none" stroke="#06B6D4" stroke-width="2" opacity="0.8"/>
+<text x="470" y="106" font-size="13" letter-spacing="2" fill="#0891B2" filter="url(#txtGlow)">SYSTEM.INFO</text>
+<line x1="566" y1="102" x2="1061" y2="102" stroke="rgba(15,23,42,0.10)"/>
+<text x="1125" y="106" text-anchor="end" font-size="12" fill="#DC2626" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+<rect x="470" y="122" width="245" height="20" rx="4" fill="#DBEAFE"/>
+<text x="479" y="136" font-size="14" font-weight="700" fill="#1D4ED8">arifhasan.connect@gmail.com</text>
+<line x1="725" y1="130" x2="1125" y2="130" stroke="rgba(15,23,42,0.10)"/>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.90s" fill="freeze"/><text x="470" y="162" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Subject </tspan><tspan fill="rgba(15,23,42,0.25)">............................................................</tspan><tspan fill="#0F172A" font-weight="600"> Arif Hasan</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.02s" fill="freeze"/><text x="470" y="185" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Role </tspan><tspan fill="rgba(15,23,42,0.25)">.....................................................</tspan><tspan fill="#0F172A" font-weight="600"> Full-Stack Developer</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.14s" fill="freeze"/><text x="470" y="208" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Origin </tspan><tspan fill="rgba(15,23,42,0.25)">.....................................................</tspan><tspan fill="#0F172A" font-weight="600"> Sylhet, Bangladesh</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.26s" fill="freeze"/><text x="470" y="231" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Education </tspan><tspan fill="rgba(15,23,42,0.25)">..........................................................</tspan><tspan fill="#0F172A" font-weight="600"> BSc in CSE</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.38s" fill="freeze"/><text x="470" y="254" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Status </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................</tspan><tspan fill="#0F172A" font-weight="600"> Building + Learning + Shipping</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.50s" fill="freeze"/><text x="470" y="277" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">ToolChain </tspan><tspan fill="rgba(15,23,42,0.25)">.................................</tspan><tspan fill="#0F172A" font-weight="600"> VS Code, Git, Android Studio, Figma</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.72s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.72s" fill="freeze"/><text x="470" y="308" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Lang </tspan><tspan fill="rgba(15,23,42,0.25)">...................................................</tspan><tspan fill="#0F172A" font-weight="600"> Dart, C++, Python</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.84s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.84s" fill="freeze"/><text x="470" y="331" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Frontend </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................................</tspan><tspan fill="#0F172A" font-weight="600"> Flutter</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.96s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.96s" fill="freeze"/><text x="470" y="354" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Backend </tspan><tspan fill="rgba(15,23,42,0.25)">..........................................................</tspan><tspan fill="#0F172A" font-weight="600"> Node.js</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.08s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.08s" fill="freeze"/><text x="470" y="377" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Database </tspan><tspan fill="rgba(15,23,42,0.25)">...............................................</tspan><tspan fill="#0F172A" font-weight="600"> Firebase, MongoDB</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.20s" fill="freeze"/><text x="470" y="400" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Core.Infra </tspan><tspan fill="rgba(15,23,42,0.25)">................................................</tspan><tspan fill="#0F172A" font-weight="600"> Vercel, Docker, Git</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.42s" fill="freeze"/><text x="470" y="431" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#475569">- Contact </tspan><tspan fill="rgba(15,23,42,0.25)">---------------------------------------------------------------------</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.54s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.54s" fill="freeze"/><text x="470" y="454" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.Mail </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................</tspan><tspan fill="#0F172A" font-weight="600"> arifhasan.connect@gmail.com</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.66s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.66s" fill="freeze"/><text x="470" y="477" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.Portfolio </tspan><tspan fill="rgba(15,23,42,0.25)">....................................................</tspan><tspan fill="#0F172A" font-weight="600"> coming soon</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.78s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.78s" fill="freeze"/><text x="470" y="500" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.LinkedIn </tspan><tspan fill="rgba(15,23,42,0.25)">............................................</tspan><tspan fill="#0F172A" font-weight="600"> arif-hasan-672249358</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.90s" fill="freeze"/><text x="470" y="523" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.GitHub </tspan><tspan fill="rgba(15,23,42,0.25)">.........................................................</tspan><tspan fill="#0F172A" font-weight="600"> @arifhaxn</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="3.02s" fill="freeze"/><text x="470" y="546" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#0891B2">Grid.Facebook </tspan><tspan fill="rgba(15,23,42,0.25)">......................................................</tspan><tspan fill="#0F172A" font-weight="600"> @arifhaxnn</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.34s" fill="freeze"/>
+<text x="470" y="577" font-size="14" fill="#475569">&#9656; More about me &amp; projects below in README &#8595; <tspan fill="#06B6D4">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+</g>
+</g>
+<rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55" filter="url(#glow8)"/>
+<rect x="3" y="3" width="1174" height="604" rx="17" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
 </svg>
