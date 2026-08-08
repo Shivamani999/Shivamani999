@@ -6,6 +6,7 @@
   <img alt="Shivamani Konam" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
 </picture>
 
+
 # 💫 About Me:
 🔭 I’m currently working on SSE-QE @Valuelabs Ex-Infosys || Freelancer || Java | Python | Selenium | RestAssured | Appium (A/I)| Playwright | BrowserStack | TestNG | BDD Cucumber | Pytest | Postman | Agile | Maven | GIT | Jenkins | MySQL | Linux |<br>👯 I’m looking to collaborate on Brands<br>🤝 I’m looking for help with Software enthuistics<br>🌱 I’m currently learning GenAI, Rags, MCP's, Ai Agents<br>💬 Ask me about Career growth<br>⚡ Fun fact i'm parttime memer
 
