@@ -39,7 +39,7 @@
 <text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
 <rect x="470" y="122" width="245" height="20" rx="4" fill="#4C1D95"/>
-<text x="479" y="136" font-size="14" font-weight="700" fill="#E9D5FF">arifhasan.connect@gmail.com</text>
+<text x="479" y="136" font-size="14" font-weight="700" fill="#E9D5FF">shivasuriyakonam@gmail.com</text>
 <line x1="725" y1="130" x2="1125" y2="130" stroke="rgba(255,255,255,0.10)"/>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.90s" fill="freeze"/><text x="470" y="162" font-size="14" textLength="655" lengthAdjust="spacingAndGlyphs" xml:space="preserve"><tspan fill="#22D3EE">Subject </tspan><tspan fill="rgba(148,163,184,0.35)">............................................................</tspan><tspan fill="#F8FAFC" font-weight="600"> Konam Shivamani</tspan></text></g>
