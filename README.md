@@ -59,57 +59,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Mechanical%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-4F46E5?style=for-the-badge&logo=levelsdotfyi&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/smk99/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shivasuriyakonam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Shivamani999">
-  <img src="https://img.shields.io/badge/GitHub-Shivamani999-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Shivamani999&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Shivamani999?style=for-the-badge&color=4F46E5&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Shivamani999?style=for-the-badge&color=7C3AED&label=STARS" />
-
-</div>
-
----
-
-## About
-
-I am a **Senior Software Engineer, AI Engineer, and SDET** with **5+ years of professional engineering experience**, focused on building reliable software systems, intelligent automation, and AI-powered developer solutions.
-
-My engineering approach combines **software development, test engineering, automation, DevOps, and generative AI** to solve problems across the complete product lifecycle.
-
-I work primarily with **Python, Java, and JavaScript**, with a growing focus on **LLMs, RAG systems, AI agents, MCP, GenAI applications, and intelligent automation**.
-
-I approach AI engineering from a product and engineering perspective — not simply as prompt experimentation. The goal is to build systems that are **useful, testable, maintainable, observable, secure, and production-oriented**.
-
-### Engineering Focus
-
-* Software Engineering & Product Engineering
-* AI Engineering & Generative AI
-* LLM Applications
-* Retrieval-Augmented Generation — RAG
-* AI Agents & Agentic Workflows
-* Model Context Protocol — MCP
-* Test Automation & SDET Engineering
-* API & UI Automation
-* Quality Engineering
-* DevOps & Engineering Productivity
-* Python, Java & JavaScript
-* AI-assisted developer tooling
-
 ### Open To
 
 **AI Engineering • Senior Software Engineering • SDET / Quality Engineering • AI Automation • Developer Productivity • Open Source Collaboration**
