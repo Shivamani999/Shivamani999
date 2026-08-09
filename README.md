@@ -274,58 +274,6 @@ Worked across **software quality, automation, development infrastructure, and De
 
 ---
 
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-Certification details to be added.
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-Certification details to be added.
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-
-Certification details to be added.
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-Certification details to be added.
-
----
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Shivamani999">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivamani999&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-</a>
-
-<a href="https://github.com/Shivamani999">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamani999&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Shivamani999&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
