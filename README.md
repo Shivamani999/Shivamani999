@@ -1,15 +1,3 @@
-<div align="center">
-
-### Senior Software Engineer • AI Engineer • SDET
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/konam-shivamani-banner-no-whitespace.svg"
-    width="100%"
-    alt="KONAM SHIVAMANI - automationwithclarity"
-  />
-</p>
-
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems" alt="Typing SVG" />
 </a>
