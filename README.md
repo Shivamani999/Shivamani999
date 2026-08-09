@@ -1,3 +1,19 @@
+<div align="center">
+
+# `SHIVAMANI999`
+
+### Senior Software Engineer • AI Engineer • SDET
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=AI%20%7C%20Automation%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+</p>
+
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
@@ -32,40 +48,6 @@
 <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 </div>
-
-<div align="center">
-
-# `SHIVAMANI999`
-
-### Senior Software Engineer • AI Engineer • SDET
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=AI%20%7C%20Automation%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
-</p>
-
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Mechanical%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-4F46E5?style=for-the-badge&logo=levelsdotfyi&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/smk99/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shivasuriyakonam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Shivamani999">
-  <img src="https://img.shields.io/badge/GitHub-Shivamani999-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shivamani999&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Shivamani999?style=for-the-badge&color=4F46E5&label=FOLLOWERS" />
@@ -317,26 +299,6 @@ Certification details to be added.
 Certification details to be added.
 
 ---
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
 
 </div>
 
