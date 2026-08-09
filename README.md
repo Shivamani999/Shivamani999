@@ -96,6 +96,9 @@
 <a href="mailto:shivasuriyakonam@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
+<a href="https://www.youtube.com/@Shivasuriya_vlogs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=FF0000" alt="YouTube" />
+</a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Shivamani999&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
