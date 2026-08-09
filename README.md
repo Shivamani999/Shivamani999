@@ -1,11 +1,13 @@
 <div align="center">
 
-# `SHIVAMANI999`
-
 ### Senior Software Engineer • AI Engineer • SDET
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=AI%20%7C%20Automation%20%7C%20Software%20Engineering&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/assets/konam-shivamani-banner-no-whitespace.svg"
+    width="100%"
+    alt="KONAM SHIVAMANI - automationwithclarity"
+  />
 </p>
 
 <a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems">
