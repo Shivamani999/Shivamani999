@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/assets/konam-shivamani-banner-no-whitespace.svg"
+    src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/konam-shivamani-banner-no-whitespace.svg"
     width="100%"
     alt="KONAM SHIVAMANI - automationwithclarity"
   />
