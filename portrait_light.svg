@@ -36,7 +36,7 @@
 <path d="M244,204 L237,195 L232,193 L229,190 L227,172 L226,171 L226,163 L227,158 L233,155 L238,149 L240,142 L241,119 L238,112 L233,106 L233,95 L235,89 L233,80 L229,75 L229,67 L232,63 L232,60 L227,45 L225,43 L225,40 L220,33 L202,25 L182,21 L172,21 L171,20 L146,21 L129,25 L127,27 L122,28 L113,33 L99,44 L83,60 L79,67 L77,75 L75,78 L75,84 L76,85 L76,94 L78,96 L78,102 L87,115 L89,120 L89,128 L87,131 L87,146 L90,153 L91,171 L95,176 L99,179 L103,180 L109,194 L109,197 L114,201 L115,205" fill="none" stroke="#7C3AED" stroke-width="1" stroke-linejoin="round" opacity="0">
   <animate attributeName="opacity" dur="24s" repeatCount="indefinite"
     keyTimes="0;0.125;0.375;0.4583;0.9583;1" values="0;0.9;0.9;0;0;0"/>
-</path>
+</path></g></g>
 <path d="M 50 84 L 36 84 L 36 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
 <path d="M 422 84 L 436 84 L 436 98" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
 <path d="M 50 576 L 36 576 L 36 562" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.8"/>
