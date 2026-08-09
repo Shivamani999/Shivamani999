@@ -326,97 +326,11 @@ Certification details to be added.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivamani999&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamani999&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-profile:
-  role:
-    - Senior Software Engineer
-    - AI Engineer
-    - SDET
-
-Learning:
-  - Advanced AI Engineering
-  - LLM Application Architecture
-  - Retrieval-Augmented Generation
-  - AI Agents
-  - Model Context Protocol
-  - Production GenAI Systems
-
-Building:
-  - AI-powered engineering tools
-  - AI automation workflows
-  - Intelligent testing solutions
-  - LLM-powered developer productivity applications
-
-Exploring:
-  - Agentic AI
-  - RAG architectures
-  - MCP ecosystems
-  - AI-assisted software engineering
-  - AI testing and evaluation
-  - Enterprise GenAI
-
-Open To:
-  - AI Engineering
-  - Senior Software Engineering
-  - SDET / Quality Engineering
-  - AI Automation
-  - Developer Productivity
-  - Open Source Collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:shivasuriyakonam@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shivasuriyakonam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/smk99/">
-<img src="https://img.shields.io/badge/LinkedIn-smk99-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Shivamani999">
-<img src="https://img.shields.io/badge/GitHub-Shivamani999-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:shivasuriyakonam@gmail.com">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
 
 </div>
 
