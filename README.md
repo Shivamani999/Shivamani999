@@ -325,7 +325,21 @@ Worked across **software quality, automation, development infrastructure, and De
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamani999&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shivamani999&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shivamani999&bg_color=FFFFFF&color=7C3AED&line=6D28D9&point=8B5CF6&area=true&hide_border=true"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamani999"
+    width="100%"
+    alt="GitHub activity graph"
+  />
+</picture>
 
 </div>
 
