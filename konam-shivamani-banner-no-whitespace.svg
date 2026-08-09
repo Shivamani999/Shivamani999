@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 120 1600 635" width="1600" height="635"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">KONAM SHIVAMANI — automationwithclarity</title>
+  <desc id="desc">Animated purple, indigo and blue technology banner with flowing waves.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4c1d95"/>
+      <stop offset="50%" stop-color="#17106b"/>
+      <stop offset="100%" stop-color="#263cff"/>
+    </linearGradient>
+
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity=".78"/>
+      <stop offset="50%" stop-color="#4f46e5" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#2563eb" stop-opacity=".75"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c026ff" stop-opacity=".7"/>
+      <stop offset="45%" stop-color="#8b5cf6" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity=".6"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset="35%" stop-color="#c4b5fd" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="panelClip">
+      <path d="M0 185
+               C145 135 285 210 430 188
+               C575 166 675 130 825 170
+               C965 208 1060 205 1195 172
+               C1335 138 1460 135 1600 185
+               L1600 625
+               C1455 682 1335 630 1190 650
+               C1040 670 960 710 820 682
+               C675 654 570 665 430 700
+               C285 735 140 690 0 630 Z"/>
+    </clipPath>
+
+    <path id="flowA" d="M-150 555 C120 405 255 710 535 545 S1030 410 1320 545 S1580 680 1780 500"/>
+    <path id="flowB" d="M-180 600 C90 460 300 720 570 585 S1040 450 1290 590 S1570 710 1780 560"/>
+    <path id="flowC" d="M-180 625 C100 500 290 760 560 620 S1030 500 1290 625 S1580 750 1780 600"/>
+
+    <pattern id="stars" width="190" height="110" patternUnits="userSpaceOnUse">
+      <circle cx="22" cy="30" r="1.4" fill="#fff" opacity=".65"/>
+      <circle cx="92" cy="78" r="1.1" fill="#c4b5fd" opacity=".7"/>
+      <circle cx="155" cy="24" r="1.6" fill="#fff" opacity=".75"/>
+      <circle cx="125" cy="52" r=".9" fill="#a78bfa" opacity=".55"/>
+    </pattern>
+  </defs>
+<!-- Main flowing panel -->
+  <path d="M0 185
+           C145 135 285 210 430 188
+           C575 166 675 130 825 170
+           C965 208 1060 205 1195 172
+           C1335 138 1460 135 1600 185
+           L1600 625
+           C1455 682 1335 630 1190 650
+           C1040 670 960 710 820 682
+           C675 654 570 665 430 700
+           C285 735 140 690 0 630 Z"
+        fill="url(#bg)"/>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="0" y="150" width="1600" height="570" fill="url(#stars)" opacity=".85"/>
+
+    <!-- subtle moving glow -->
+    <circle cx="150" cy="430" r="220" fill="url(#glow)" opacity=".18">
+      <animate attributeName="cx" values="150;1450;150" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="430;360;430" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- flowing filled waves -->
+    <path d="M-80 555 C130 430 280 720 520 565 S1010 420 1260 555 S1540 680 1700 500 L1700 760 L-80 760 Z"
+          fill="url(#wave1)" opacity=".55">
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0;-45 8;0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M-100 625 C150 485 280 760 560 620 S1020 500 1300 625 S1570 740 1700 590 L1700 760 L-100 760 Z"
+          fill="url(#wave2)" opacity=".34">
+      <animateTransform attributeName="transform" type="translate"
+                        values="0 0;55 -10;0 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- fine animated flow lines -->
+    <g fill="none" stroke="url(#wave2)" stroke-width="2" opacity=".75">
+      <use xlink:href="#flowA"/>
+      <use xlink:href="#flowB" opacity=".55"/>
+      <use xlink:href="#flowC" opacity=".38"/>
+      <use xlink:href="#flowA" transform="translate(0 14)" opacity=".45"/>
+      <use xlink:href="#flowB" transform="translate(0 28)" opacity=".3"/>
+      <use xlink:href="#flowC" transform="translate(0 42)" opacity=".22"/>
+    </g>
+
+    <g fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity=".5">
+      <path d="M-100 340 C80 260 200 520 390 430 S760 280 980 410 S1320 520 1700 310">
+        <animate attributeName="d"
+          values="M-100 340 C80 260 200 520 390 430 S760 280 980 410 S1320 520 1700 310;
+                  M-100 340 C80 300 210 500 400 405 S760 320 990 430 S1320 480 1700 340;
+                  M-100 340 C80 260 200 520 390 430 S760 280 980 410 S1320 520 1700 310"
+          dur="8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-100 365 C80 285 200 545 390 455 S760 305 980 435 S1320 545 1700 335"
+            opacity=".45"/>
+      <path d="M-100 390 C80 310 200 570 390 480 S760 330 980 460 S1320 570 1700 360"
+            opacity=".32"/>
+    </g>
+
+    <!-- subtle meteor streaks -->
+    <g stroke="#ddd6fe" stroke-linecap="round" filter="url(#softGlow)">
+      <path d="M90 275 L160 235" stroke-width="2">
+        <animate attributeName="opacity" values="0;.9;0" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M540 255 L610 215" stroke-width="2">
+        <animate attributeName="opacity" values="0;.8;0" dur="4.2s" begin="1s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1110 265 L1190 220" stroke-width="2">
+        <animate attributeName="opacity" values="0;.9;0" dur="3.8s" begin="1.8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1390 245 L1455 210" stroke-width="2">
+        <animate attributeName="opacity" values="0;.7;0" dur="4.5s" begin=".5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- title -->
+    <g filter="url(#textGlow)">
+      <text x="800" y="435"
+            text-anchor="middle"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="92"
+            font-weight="800"
+            letter-spacing="2"
+            fill="#ffffff">KONAM SHIVAMANI</text>
+    </g>
+
+    <!-- tagline -->
+    <g>
+      <line x1="360" y1="492" x2="500" y2="492" stroke="#c084fc" stroke-width="2"/>
+      <circle cx="500" cy="492" r="4" fill="#e9d5ff" filter="url(#softGlow)">
+        <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="800" y="505"
+            text-anchor="middle"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="36"
+            font-weight="500"
+            letter-spacing="7"
+            fill="#c4b5fd">automationwithclarity</text>
+
+      <circle cx="1100" cy="492" r="4" fill="#e9d5ff" filter="url(#softGlow)">
+        <animate attributeName="r" values="3;6;3" dur="2s" begin=".7s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="1100" y1="492" x2="1240" y2="492" stroke="#c084fc" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- subtle entrance animation -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 10" to="0 0" dur="1.4s" fill="freeze"/>
+  </g>
+</svg>
