@@ -89,10 +89,6 @@
 </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Shivamani999&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Shivamani999?style=for-the-badge&color=4F46E5&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Shivamani999?style=for-the-badge&color=7C3AED&label=STARS" />
-
 </div>
 
 ---
